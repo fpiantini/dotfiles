@@ -1,0 +1,18 @@
+" Denops is a prerequisite for DDC
+" https://github.com/vim-denops/denops.vim
+Bundle "vim-denops/denops.vim"
+
+" DDC
+" https://github.com/Shougo/ddc.vim
+Bundle "Shougo/ddc.vim"
+
+" DDC UIs
+Bundle "Shougo/ddc-ui-native"
+
+" DDC Sources
+Bundle "Shougo/ddc-source-around"
+
+" DDC Filters
+Bundle "Shougo/ddc-matcher_head"
+Bundle "Shougo/ddc-sorter_rank"
+
